@@ -1,10 +1,10 @@
 # Sistema de Gestión de Ventas "Tienda de Ropa"
 __Resumen del proyecto__
-Este software, desarrollado en C++, automatiza el control de inventario y la simulacion de ventas para una tienda de ropa. 
+Este software, desarrollado en Java, automatiza el control de inventario y la simulacion de ventas para una tienda de ropa. 
 Permite separar las tareas operativas de los clientes de las tareas administrativas de gestión.
 
 ## Requisitos del sistema
-**Compilador:** Zinjal o cualquier entorno compatible con C++.   
+**Compilador:** Eclipse o cualquier entorno compatible con Java.   
 **Sistema Operativo:** Windows 11 (usa comandos de consola de Windows).   
 **Hardware:** Diseñado para funcionar en computadoras de escritorio con arquitectura estándar
 ## Cómo utilizar el programa
