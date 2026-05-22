@@ -1,0 +1,201 @@
+id,nombre,precio,categoria
+1,Camiseta Basica Negra,16.37,Camisetas
+2,Camiseta Basica Blanca,17.74,Camisetas
+3,Camiseta Oversize Negra,19.11,Camisetas
+4,Camiseta Oversize Blanca,20.48,Camisetas
+5,Camiseta Vintage Roja,21.85,Camisetas
+6,Camiseta Vintage Azul,23.22,Camisetas
+7,Camiseta Vintage Verde,24.59,Camisetas
+8,Camiseta Anime Tokyo,25.96,Camisetas
+9,Camiseta Graphic Dragon,27.33,Camisetas
+10,Camiseta Streetwear Urban,28.7,Camisetas
+11,Camiseta Retro 90s,30.07,Camisetas
+12,Camiseta Minimalista Beige,31.44,Camisetas
+13,Camiseta Acid Wash,32.81,Camisetas
+14,Camiseta Boxy Fit,34.18,Camisetas
+15,Camiseta Oversize Gris,35.55,Camisetas
+16,Camiseta Oversize Cafe,36.92,Camisetas
+17,Camiseta Skate,38.29,Camisetas
+18,Camiseta Hip Hop,39.66,Camisetas
+19,Camiseta Distressed,41.03,Camisetas
+20,Camiseta Monocromatica,42.4,Camisetas
+21,Camisa Formal Blanca,43.77,Camisas
+22,Camisa Formal Negra,45.14,Camisas
+23,Camisa Flannel Roja,46.51,Camisas
+24,Camisa Flannel Azul,47.88,Camisas
+25,Camisa Oversize Beige,49.25,Camisas
+26,Camisa Oversize Negra,50.62,Camisas
+27,Camisa Satinada Plateada,51.99,Camisas
+28,Camisa Casual Verde,53.36,Camisas
+29,Camisa Casual Gris,54.73,Camisas
+30,Camisa Manga Corta Azul,56.1,Camisas
+31,Camisa Coreana Blanca,57.47,Camisas
+32,Camisa Lino Beige,58.84,Camisas
+33,Camisa Oxford Celeste,60.21,Camisas
+34,Camisa Streetwear Negra,61.58,Camisas
+35,Camisa Rayada Azul,62.95,Camisas
+36,Camisa Slim Fit Blanca,64.32,Camisas
+37,Camisa Loose Fit Gris,65.69,Camisas
+38,Camisa Vintage Cafe,67.06,Camisas
+39,Camisa Estampada Negra,68.43,Camisas
+40,Camisa Denim Azul,69.8,Camisas
+41,Jean Baggy Azul Claro,71.17,Jeans
+42,Jean Baggy Azul Oscuro,72.54,Jeans
+43,Jean Baggy Negro,73.91,Jeans
+44,Jean Baggy Gris,75.28,Jeans
+45,Jean Skinny Azul,76.65,Jeans
+46,Jean Skinny Negro,78.02,Jeans
+47,Jean Cargo Verde,79.39,Jeans
+48,Jean Cargo Beige,80.76,Jeans
+49,Jean Recto Azul,82.13,Jeans
+50,Jean Recto Negro,83.5,Jeans
+51,Jean Destroyed Azul,84.87,Jeans
+52,Jean Vintage Wash,86.24,Jeans
+53,Jean Wide Leg Gris,87.61,Jeans
+54,Jean Relaxed Fit Negro,88.98,Jeans
+55,Jean Carpenter Azul,90.35,Jeans
+56,Jean Streetwear Gris,91.72,Jeans
+57,Jean Loose Fit Azul,93.09,Jeans
+58,Jean Oversize Negro,94.46,Jeans
+59,Jean Urban Denim,95.83,Jeans
+60,Jean Acid Wash,97.2,Jeans
+61,Pantalon Cargo Negro,98.57,Pantalones
+62,Pantalon Cargo Beige,99.94,Pantalones
+63,Pantalon Cargo Verde,101.31,Pantalones
+64,Pantalon Jogger Gris,102.68,Pantalones
+65,Pantalon Jogger Negro,104.05,Pantalones
+66,Pantalon Jogger Azul,15.42,Pantalones
+67,Pantalon Wide Leg Negro,16.79,Pantalones
+68,Pantalon Wide Leg Beige,18.16,Pantalones
+69,Pantalon Streetwear Gris,19.53,Pantalones
+70,Pantalon Streetwear Negro,20.9,Pantalones
+71,Pantalon Formal Azul,22.27,Pantalones
+72,Pantalon Formal Negro,23.64,Pantalones
+73,Pantalon Deportivo Blanco,25.01,Pantalones
+74,Pantalon Slim Fit Gris,26.38,Pantalones
+75,Pantalon Tactical Verde,27.75,Pantalones
+76,Pantalon Techwear Negro,29.12,Pantalones
+77,Pantalon Casual Cafe,30.49,Pantalones
+78,Pantalon Recto Beige,31.86,Pantalones
+79,Pantalon Urban Fit,33.23,Pantalones
+80,Pantalon Relaxed Gris,34.6,Pantalones
+81,Hoodie Oversize Negro,35.97,Hoodies
+82,Hoodie Oversize Blanco,37.34,Hoodies
+83,Hoodie Oversize Gris,38.71,Hoodies
+84,Hoodie Oversize Beige,40.08,Hoodies
+85,Hoodie Graphic Rojo,41.45,Hoodies
+86,Hoodie Graphic Negro,42.82,Hoodies
+87,Hoodie Vintage Gris,44.19,Hoodies
+88,Hoodie Streetwear Blanco,45.56,Hoodies
+89,Hoodie Streetwear Negro,46.93,Hoodies
+90,Hoodie Anime Tokyo,48.3,Hoodies
+91,Hoodie Essentials Arena,49.67,Hoodies
+92,Hoodie Minimalista Negro,51.04,Hoodies
+93,Hoodie Zip Up Gris,52.41,Hoodies
+94,Hoodie Boxy Fit Negro,53.78,Hoodies
+95,Hoodie Acid Wash,55.15,Hoodies
+96,Hoodie Techwear Gris,56.52,Hoodies
+97,Hoodie Urban Blue,57.89,Hoodies
+98,Hoodie Retro Purple,59.26,Hoodies
+99,Hoodie College Green,60.63,Hoodies
+100,Hoodie Monocromatico,62.0,Hoodies
+101,Chaqueta Denim Azul Claro,63.37,Chaquetas
+102,Chaqueta Denim Negra,64.74,Chaquetas
+103,Chaqueta Bomber Negra,66.11,Chaquetas
+104,Chaqueta Bomber Verde,67.48,Chaquetas
+105,Chaqueta Cuero Negra,68.85,Chaquetas
+106,Chaqueta Varsity Roja,70.22,Chaquetas
+107,Chaqueta Varsity Negra,71.59,Chaquetas
+108,Chaqueta Oversize Beige,72.96,Chaquetas
+109,Chaqueta Oversize Gris,74.33,Chaquetas
+110,Chaqueta Impermeable Negra,75.7,Chaquetas
+111,Chaqueta Puffer Blanca,77.07,Chaquetas
+112,Chaqueta Puffer Negra,78.44,Chaquetas
+113,Chaqueta Streetwear Verde,79.81,Chaquetas
+114,Chaqueta Techwear Gris,81.18,Chaquetas
+115,Chaqueta Vintage Denim,82.55,Chaquetas
+116,Chaqueta Cargo Negra,83.92,Chaquetas
+117,Chaqueta Casual Cafe,85.29,Chaquetas
+118,Chaqueta Utility Beige,86.66,Chaquetas
+119,Chaqueta Windbreaker Azul,88.03,Chaquetas
+120,Chaqueta Urban Black,89.4,Chaquetas
+121,Short Deportivo Negro,90.77,Shorts
+122,Short Deportivo Gris,92.14,Shorts
+123,Short Baggy Negro,93.51,Shorts
+124,Short Baggy Beige,94.88,Shorts
+125,Short Cargo Verde,96.25,Shorts
+126,Short Running Azul,97.62,Shorts
+127,Short Basketball Rojo,98.99,Shorts
+128,Short Streetwear Negro,100.36,Shorts
+129,Short Casual Azul,101.73,Shorts
+130,Short Casual Blanco,103.1,Shorts
+131,Short Vintage Denim,104.47,Shorts
+132,Short Loose Fit Gris,15.84,Shorts
+133,Short Oversize Beige,17.21,Shorts
+134,Short Skate Negro,18.58,Shorts
+135,Short Techwear Verde,19.95,Shorts
+136,Short Urban Gray,21.32,Shorts
+137,Short Minimalista Blanco,22.69,Shorts
+138,Short Monocromatico Negro,24.06,Shorts
+139,Short Acid Wash,25.43,Shorts
+140,Short Cargo Gris,26.8,Shorts
+141,Gorra Negra,28.17,Accesorios
+142,Gorra Blanca,29.54,Accesorios
+143,Gorra Roja,30.91,Accesorios
+144,Gorra Azul,32.28,Accesorios
+145,Beanie Negro,33.65,Accesorios
+146,Beanie Gris,35.02,Accesorios
+147,Beanie Blanco,36.39,Accesorios
+148,Cinturon Negro,37.76,Accesorios
+149,Cinturon Marron,39.13,Accesorios
+150,Cadena Plateada,40.5,Accesorios
+151,Cadena Dorada,41.87,Accesorios
+152,Pulsera Cuero Negra,43.24,Accesorios
+153,Pulsera Acero,44.61,Accesorios
+154,Lentes Vintage,45.98,Accesorios
+155,Lentes Urbanos,47.35,Accesorios
+156,Mochila Streetwear,48.72,Accesorios
+157,Bolso Crossbody Negro,50.09,Accesorios
+158,Riñonera Gris,51.46,Accesorios
+159,Medias Blancas,52.83,Accesorios
+160,Medias Negras,54.2,Accesorios
+161,Zapatillas Urbanas Blancas,55.57,Calzado
+162,Zapatillas Urbanas Negras,56.94,Calzado
+163,Zapatillas Running Azul,58.31,Calzado
+164,Zapatillas Running Rojas,59.68,Calzado
+165,Converse Negras,61.05,Calzado
+166,Converse Blancas,62.42,Calzado
+167,Botas Urbanas Cafe,63.79,Calzado
+168,Botas Urbanas Negras,65.16,Calzado
+169,Zapatos Casuales Beige,66.53,Calzado
+170,Zapatos Formales Negros,67.9,Calzado
+171,Sneakers Retro Gris,69.27,Calzado
+172,Sneakers Chunky Blancos,70.64,Calzado
+173,Sneakers Streetwear Negros,72.01,Calzado
+174,Sneakers Minimalistas,73.38,Calzado
+175,Sneakers Skate Azules,74.75,Calzado
+176,Sneakers Vintage Rojos,76.12,Calzado
+177,Tenis Deportivos Blancos,77.49,Calzado
+178,Tenis Deportivos Negros,78.86,Calzado
+179,Zapatillas Techwear,80.23,Calzado
+180,Zapatillas High Top,81.6,Calzado
+181,Polo Oversize Negro,25.71,Ropa Urbana
+182,Sudadera Vintage Blanco,27.62,Ropa Urbana
+183,Tank Top Streetwear Azul,29.53,Ropa Urbana
+184,Conjunto Minimalista Rojo,31.44,Ropa Urbana
+185,Chompa Graphic Verde,33.35,Ropa Urbana
+186,Polo Acid Wash Gris,35.26,Ropa Urbana
+187,Sudadera Boxy Fit Beige,37.17,Ropa Urbana
+188,Tank Top Loose Fit Cafe,39.08,Ropa Urbana
+189,Conjunto Urban Morado,40.99,Ropa Urbana
+190,Chompa Retro Celeste,42.9,Ropa Urbana
+191,Polo Oversize Rojo,44.81,Ropa Urbana
+192,Sudadera Vintage Verde,46.72,Ropa Urbana
+193,Tank Top Streetwear Gris,48.63,Ropa Urbana
+194,Conjunto Minimalista Beige,50.54,Ropa Urbana
+195,Chompa Graphic Cafe,52.45,Ropa Urbana
+196,Polo Acid Wash Morado,54.36,Ropa Urbana
+197,Sudadera Boxy Fit Celeste,56.27,Ropa Urbana
+198,Tank Top Loose Fit Color191,58.18,Ropa Urbana
+199,Conjunto Urban Negro,60.09,Ropa Urbana
+200,Chompa Retro Blanco,62.0,Ropa Urbana
