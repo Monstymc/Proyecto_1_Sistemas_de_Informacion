@@ -11,10 +11,9 @@ Permite separar las tareas operativas de los clientes de las tareas administrati
 **Acceso Cliente:** Selecciona la opción 1 en el menú principal.   
 Navega por el catálogo, agrega productos al carrito y visualiza tu total.   
 **Acceso Administrador:** Selecciona la opción 2.   
-Ingresa la contraseña:`admin123`.   
-Desde aquí puedes agregar nuevos productos o eliminar los existentes y visualizar el inventario.
+Ingresa la contraseña:`amamosIntro`.   
+Desde aquí puedes visualizar el inventario.
 ## Estructura de Datos
 El sistema guarda los siguientes datos mientras esta en ejecucion:   
 **Inventario:** Almacena nombres y precios base.   
 **Carrito:** Registro dinámico de la selección del usuario.   
-**Seguridad:** Validación de cadenas para el control de acceso.
